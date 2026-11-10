@@ -1,4 +1,4 @@
-# pytest_allure_python
+# Pytest_playwright_allure
 
 ## Setup
 
